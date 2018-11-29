@@ -1,5 +1,6 @@
-UPD 0.3:
-SAMPFUNCS
-ANTISTEALER
-gta_sa.exe
-cleo 4.3
+UPD v0.3:
+Добавлены: 
+SAMPFUNCS; 
+Cleo 4.3; 
+gta_sa.exe; 
+AntiStealer;
