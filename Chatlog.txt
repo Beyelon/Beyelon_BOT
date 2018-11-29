@@ -1,5 +1,0 @@
-UPD 0.3:
-SAMPFUNCS
-ANTISTEALER
-gta_sa.exe
-cleo 4.3
