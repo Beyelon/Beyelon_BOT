@@ -1,0 +1,5 @@
+v 0.2 [FIX]
+1) Новый интерфейс
+2) Fix bugs cycle
+3) Add new button: Update
+4)Тачер 228
