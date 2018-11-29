@@ -1,4 +1,0 @@
-v 0.2 [FIX]
-1) New interface
-2) Fix bugs cycle
-3) Add new button: Update
