@@ -1,5 +1,1 @@
-Версия v0.3 Добавленно:
-SAMPFUNCS; 
-Cleo 4.3; 
-gta_sa.exe; 
-AntiStealer;
+Версия v0.3 Добавленно:`SAMPFUNCS; `Cleo 4.3; `gta_sa.exe; `AntiStealer;
